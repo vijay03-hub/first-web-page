@@ -1,0 +1,43 @@
+
+#a{
+  float: left;
+}
+#b{
+  float: right;
+}
+
+#right{
+  text-align: left;
+  width: 192px;
+    float: right;
+}
+#left {
+    text-align: left;
+    width: 250px;
+
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+}
+#center{
+  text-align: center;
+
+  float: center;
+  width: 50%;
+  padding: 5px;
+
+}
+
+.t {
+    position: relative /* Declared position allows for location changes */
+    top: -3px; /* Moves the image 2px closer to the top of the page */
+}
+
+#font-size{
+  font-size: 150%
+}
+
+html{
+  font-family: sans-serif;
+}
